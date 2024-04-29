@@ -190,7 +190,7 @@ def filter_dataframe_by_column_values(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def setup_basic():
-    title = "🏆 LLM-Leaderboard - Change"
+    title = "🏆 LLM-Leaderboard - Change 2"
 
     st.set_page_config(
         page_title=title,
